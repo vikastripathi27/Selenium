@@ -7,6 +7,8 @@ public class AddTwoNumber {
 		int b=9;
 		int sum=a+b;
 		System.out.println(sum);
+		System.out.println("sum is" + " "+sum);
+
 
 	}
 
